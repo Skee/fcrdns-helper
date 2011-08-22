@@ -1,5 +1,5 @@
 ## fcrdns-helper ##
-A pdns pipe backend worker for enabling forward confirmed reverse DNS for entire IP blocks.
+A pdns pipe backend worker for enabling [forward-confirmed reverse DNS](http://en.wikipedia.org/wiki/Forward-confirmed_reverse_DNS) for entire IP blocks.
 
 
 ### _Requirements_ ###
